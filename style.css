@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #9FE5FC;
+}
+
+header {
+    font-size: large;
+    height: fit-content;
+    width: 100%;
+    text-align: center;
+    background-color: #03538C;
+    padding: 2px;
+    color: white;
+}
+
+main {
+    width: 100%;
+    height: fit-content;
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+
+.toggleButton {
+    background-color: #C4F0FF;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 5px 0 5px 15px;
+    width:1000px;
+    text-align: left;
+    height: 40px;
+    cursor: pointer;
+}
